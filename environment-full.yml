@@ -1,4 +1,3 @@
-name: /Users/kennethratliff/Desktop/DataScience/DataCamp-Projects/240604-CustomerAnalytics/envs
 channels:
   - defaults
 dependencies:
@@ -89,4 +88,3 @@ dependencies:
   - zeromq=4.3.5=h313beb8_0
   - zlib=1.2.13=h18a0788_1
   - zstd=1.5.5=hd90d995_2
-prefix: /Users/kennethratliff/Desktop/DataScience/DataCamp-Projects/240604-CustomerAnalytics/envs
